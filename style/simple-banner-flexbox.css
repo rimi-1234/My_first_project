@@ -1,0 +1,30 @@
+
+body{
+  background-color: rgba(161, 142, 74, 0.478);
+}
+nav{
+  border: 2px solid red;
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 20px;
+}
+nav ul {
+  display: flex;
+  list-style-type: none;
+  
+
+}
+nav li a{
+    text-decoration: none;
+    padding:10px ;
+    color: black;
+}
+
+.hero-container{
+  background-color: aquamarine;
+  display: flex;
+  width: 60%;
+  margin: 0 auto;
+  height:500px ;
+
+}
