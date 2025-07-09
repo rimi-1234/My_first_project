@@ -1,0 +1,26 @@
+body{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+.card{
+    background-color: aquamarine;
+    width: 300px;
+    height: 410px;
+    padding: 10px;
+}
+.card img{
+    width: 100%;
+}
+button{
+    background-color: aqua;
+    font-size: 1rem;
+    padding: 5px;
+    border-radius: 4px;
+    width: 100px;
+    font-weight: bold;
+}
+.card-container{
+    display: flex;
+    gap:50px;
+    flex-wrap: wrap;
+}
